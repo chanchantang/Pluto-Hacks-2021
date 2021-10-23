@@ -137,7 +137,7 @@
     top: -25rem;
     left: 0;
     width: 20vw;
-    height: 20rem;
+    height: 25rem;
     transition: all 0.2s ease-in-out;
     z-index: 32;
   }
@@ -177,7 +177,7 @@
   
   section#hero.app-hero {
     height: 30rem;
-    background: #f7f7f7;
+    background: transparent;
   }
   
   section#hero.contact-hero {

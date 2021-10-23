@@ -16,18 +16,26 @@ $(window).on("scroll", function() {
 	}
 });
 
-$("a, button").on("click", function(e) {
-	e.stopPropagation();
-});
+// $("a, button").on("click", function(e) {
+// 	e.stopPropagation();
+
+// 	var $el = $(this);
+
+// 	if(!$el.hasClass("clickedOnce")) {
+// 		e.preventDefault();
+
+// 		setTimeout(function() {
+// 			$el.addClass("clickedOnce");
+// 		}, 200);
+// 	}
+// });
 
 $("#hero button").on("click", function(e) {
-	if($(this).is(".clickedOnce")) {
-		e.preventDefault();
+	e.preventDefault();
 
-		$("body").animate({
-			scrollTop: $("#twocards").offset().top
-		}, 500);
-	}
+	$("body").animate({
+		scrollTop: $("#twocards").offset().top
+	}, 500);
 });
 
 $("section").on("click", function(e) {
