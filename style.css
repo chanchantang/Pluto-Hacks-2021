@@ -137,7 +137,7 @@
     top: -25rem;
     left: 0;
     width: 20vw;
-    height: 25rem;
+    height: 20rem;
     transition: all 0.2s ease-in-out;
     z-index: 32;
   }
@@ -383,7 +383,7 @@
   }
   
   section#device .img-container img {
-    box-shadow: none;
+    /* box-shadow: none; */
     transform: rotateY(180deg);
   }
   

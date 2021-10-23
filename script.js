@@ -17,7 +17,7 @@ $(window).on("scroll", function() {
 });
 
 $("a, button").on("click", function(e) {
-
+	e.stopPropagation();
 });
 
 $("#hero button").on("click", function(e) {
@@ -32,6 +32,4 @@ $("#hero button").on("click", function(e) {
 
 $("section").on("click", function(e) {
 	var $el = $(this);
-	responsiveVoice.cancel();
-	responsiveVoice.speak($el.text());
 });
