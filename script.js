@@ -17,19 +17,7 @@ $(window).on("scroll", function() {
 });
 
 $("a, button").on("click", function(e) {
-	e.stopPropagation();
 
-	var $el = $(this);
-
-	if(!$el.hasClass("clickedOnce")) {
-		e.preventDefault();
-
-		responsiveVoice.speak($el.attr("data-click-text"));
-
-		setTimeout(function() {
-			$el.addClass("clickedOnce");
-		}, 200);
-	}
 });
 
 $("#hero button").on("click", function(e) {
