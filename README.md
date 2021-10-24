@@ -12,9 +12,7 @@ landfill-verical: https://www.istockphoto.com/fr/photo/lieu-denfouissement-des-d
 
 longroad: https://www.pinterest.ch/pin/435512226467832449/
 
-project-environment: https://www.pexels.com/id-id/foto/
-
-tangan-bumi-memegang-lingkungan-hidup-4167544/
+project-environment: https://www.pexels.com/id-id/foto/tangan-bumi-memegang-lingkungan-hidup-4167544/
 
 road: https://fondosmil.com/lluvia-otono
 
