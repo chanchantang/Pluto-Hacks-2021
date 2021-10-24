@@ -1,13 +1,14 @@
 # Pluto-Hacks-2021
+
+Submission for Pluto Hacks 2021
+
 Image Sources:
 
 bg: https://wallpaper.dog/anime-nature-aesthetic-wallpapers
 
 landfill: https://www.pexels.com/nl-nl/foto/gele-graafmachine-op-stapels-afval-3174350/
 
-landfill-verical: https://www.istockphoto.com/fr/photo/
-
-lieu-denfouissement-des-d%C3%A9chets-vertical-gm453939467-25866520
+landfill-verical: https://www.istockphoto.com/fr/photo/lieu-denfouissement-des-d%C3%A9chets-vertical-gm453939467-25866520
 
 longroad: https://www.pinterest.ch/pin/435512226467832449/
 
